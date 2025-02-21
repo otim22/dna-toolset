@@ -1,6 +1,6 @@
 # DNA Tookkit file
 from collections import Counter
-from structures import *
+from bio_structs import *
 
 # Check the sequence to make sure it is a DNA String
 def validate_seq(dna_seq):
